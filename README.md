@@ -11,9 +11,9 @@ Draco Li - Research
 
 Larry Qu - Research
 
-Richard Huang - Inspiration
+Richard Huang - Inspiration, Idea, Source of APIs
 
-#How to get working on your computer
+##How to get working on your computer
 
 1) Download the src file, and save the .java files to your desktop
 
