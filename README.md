@@ -11,7 +11,7 @@ Draco Li - Research
 
 Larry Qu - Research
 
-Richard Huang - Inspiration, Idea, Source of APIs
+Richard Huang - Inspiration, Idea, Source of APIs, IT guy
 
 ##How to get working on your computer
 
